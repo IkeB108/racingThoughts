@@ -96,10 +96,8 @@ There's nothing more frustrating than someone who is confidently wrong
 It's impossible to know whether you are making the best use of your time
 How much time do I spend every day wishing I were doing something else?
 We don't live in a world that is built for living our best life
-Maybe seeing the bigger picture is the cure to anger and stress
 Why am I so bad at building new habits?
-Even simple habits are so hard to keep
-Why should I expect to succeed today if I've failed every day for the last month?`
+Even simple habits are so hard to keep`
   thoughts = thoughts.split("\n")
   
   isFirstTap = true;
