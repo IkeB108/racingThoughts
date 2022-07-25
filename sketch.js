@@ -164,7 +164,7 @@ function draw(){
   if(!myLoader.complete){
     fill(255); textSize(30);
     let loadingProgress = "(" + myLoader.progress + "/" + myLoader.completion + ")\n(Turn on your sound)"
-    text("Loading\nRestlessness...\n" + loadingProgress, width/2, height/2)
+    text("Loading\nRacing Thoughts...\n" + loadingProgress, width/2, height/2)
   }
   
   if(myLoader.complete){
